@@ -55,7 +55,7 @@
   .menu .portrait {
     width: 250px;
     height: 250px;
-    background: url("/dist/img/portrait.jpg");
+    background: url("../img/portrait.jpg");
     border-radius: 50%;
     border: 3px solid #eece1a; }
   .menu .nav-item {
